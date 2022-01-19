@@ -13,3 +13,11 @@
  - **Power BI Mobile**
       
       It is similar to Power BI Service. Stakeholders can access the reports and dashboards through Mobile/Tablet device and view them. It is meant only for viewing contents which means users can't create dashboards in this platform.
+
+### 2. What limitations of Excel, Microsoft solved by PowerBi ?
+
+- The maximum number of rows and columns is limited in Excel. Power BI doesn't limit users on dimension of data.
+- Power BI exceeds Excel feature in Data sources. Power BI can get multiple static, dynamic and streaming data. There 80+ available data sources.
+- The charts and visualizations are much advanced and interactive in Power BI.
+- The analytical engine is Power BI is much more faster than Excel which can save hours in processing.
+- Power BI allows users to share reports and data and collaborate with organization where excel cannot.
