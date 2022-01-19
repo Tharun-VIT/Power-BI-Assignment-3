@@ -38,3 +38,7 @@ These data transformations could include tasks like:
 - Unpivot data to use for pivot tables
 
 It is the mostly used tool by the analyst to get data and pre-process them to use it for final report. It is a must known skill for any developers to user power BI.
+
+### 4. Explain PowerMap?
+
+Power Map feature comes with Power BI as well as Excel from Microsoft. It is a data 3D-visualization tool  that lets you map your data and plot more than a million rows of data visually on Bing maps in 3-D format. It is used to plot geo-spacial data in 3D mode. Based on a geographical location, the data can be highlighted. 
