@@ -4,7 +4,7 @@
  
  - **Power BI Desktop**
       
-      It is the main Power BI Application where an Analyst can connect application to multiple data sources and analyze data to create reports to business stakeholder.
+      It is the main Power BI Application where an Analyst can connect application to multiple data sources and analyze data to create reports to business stakeholder. This product comes with free, pro and premium versions which costs accordingly. Free version doesn't allow analysts to share reports to other users.
       
  - **Power BI service**
       
