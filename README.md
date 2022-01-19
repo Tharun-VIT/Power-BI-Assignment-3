@@ -21,3 +21,20 @@
 - The charts and visualizations are much advanced and interactive in Power BI.
 - The analytical engine is Power BI is much more faster than Excel which can save hours in processing.
 - Power BI allows users to share reports and data and collaborate with organization where excel cannot.
+
+### 3. Explain PowerQuery?
+
+Power Query is the Heart of Power BI. Power Query Editor allows user to transform data and create queries in much faster way and load them to main window. Power BI allows a  massive variety of ways to transform data. Power Query is just one piece of the suite of Power BI and Excel products from Microsoft.
+
+These data transformations could include tasks like:
+
+- Remove columns, rows, blanks
+- Convert data types – text, numbers, dates
+- Split or merge columns
+- Sort & filter columns
+- Add calculated columns
+- Aggregate or summarize data
+- Find & replace text
+- Unpivot data to use for pivot tables
+
+It is the mostly used tool by the analyst to get data and pre-process them to use it for final report. It is a must known skill for any developers to user power BI.
