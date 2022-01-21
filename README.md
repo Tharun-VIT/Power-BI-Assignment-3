@@ -42,3 +42,24 @@ It is the mostly used tool by the analyst to get data and pre-process them to us
 ### 4. Explain PowerMap?
 
 Power Map feature comes with Power BI as well as Excel from Microsoft. It is a data 3D-visualization tool  that lets you map your data and plot more than a million rows of data visually on Bing maps in 3-D format. It is used to plot geo-spacial data in 3D mode. Based on a geographical location, the data can be highlighted. 
+
+### 5. How powerBi eliminated the need to host SharePoint Server on premises?
+
+There has been a lot of buzz and questions around connecting your Office 365 tenant to data located on Premises. This is a common requirement and is now made possible with PowerBI.
+
+Connecting to your data source is made possible with the Data Management Gateway(DMG) The awesome part of the DMG is that is makes the connection outside the firewall. That means, no reverse proxies, custom web services or firewalls to deal with!
+
+Overall, there are few requirements and caveats that I encountered while setting up my demo environment. FYI, I set this up in under and hour, including the time is took to spin up a PowerBI trial.
+
+- The DMG must be installed on a non-SQL server in your on premises environment. I could not get anything to work on my SQL server so I am thinking this has to be done on a member server.
+- A new Gateway must be created via your bi admin center.
+- You must register the gateway with the on premises DMG client.
+- You can then store your credentials for the data sources on premises OR in the cloud. The benefit to storing the creds in the cloud is you can recover quicker from a system failure.
+
+### 6. Explain the updates done in Power Bi Service(power BI 2.0) as compared to older version ?
+
+- Admin & governance
+- Email subscriptions access via Admin API
+- Allow sharing links to include your changes to the report
+- Announcing Public Preview of Hybrid Tables in Power BI Premium
+- Deployment pipelines: assign a workspace to all pipeline stages
